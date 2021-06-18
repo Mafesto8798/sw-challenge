@@ -1,7 +1,7 @@
 To start app, 
 
 
-1. In the server folder run yarn, and yarn start.
+1. In the server folder do git clone https://github.com/graphql/swapi-graphql then run yarn, and yarn start.
 
 2.Copy the port number from the console after running server, and copy it into the uri in index.js in the root folder.
 
